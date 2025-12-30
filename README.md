@@ -3,6 +3,8 @@
 
 Email Me 👉 ✉️ **amanjaiswar1999@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+linkedin Me 👉 ✉️ **http://linkedin.com/in/aman-jaiswa** For Collaboration/Project or Anything Else. 😊😊
+
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
@@ -16,7 +18,7 @@ Email Me 👉 ✉️ **amanjaiswar1999@gmail.com** For Collaboration/Project or 
 ![](https://github-profile-trophy.vercel.app/?username=amanjaiswar14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aman_jaiswa_/?igsh=ZHJ5a290YTFkeWNk#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/aman-jaiswa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanjaiswar1999@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aman_jaiswa_/?igsh=ZHJ5a290YTFkeWNk#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/aman-jaiswa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanjaiswar1999@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
