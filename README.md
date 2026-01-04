@@ -23,7 +23,7 @@ Email Me 👉 ✉️ **amanjaiswar1999@gmail.com** For Collaboration/Project or 
 
 linkedin Me 👉 ✉️ **http://linkedin.com/in/aman-jaiswa** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** - - Interactive dashboards using *Power BI*
+- 🔭 **I’m currently working on:** -  Interactive dashboards using *Power BI*
 - SQL-based data analysis projects
 - Python EDA on real-world datasets
 - 🌱 **I’m currently learning:** - Advanced *DAX* & Power BI optimization  
