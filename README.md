@@ -1,5 +1,4 @@
 # 💫 Hi 👋, I'm Aman Jaiswar
-**
 📊 *Data Analyst | Business Intelligence | Power BI | SQL | Python*  
 📍 India  
 
