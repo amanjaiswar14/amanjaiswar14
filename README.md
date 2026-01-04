@@ -1,21 +1,46 @@
 # 💫 Hi 👋, I'm Aman Jaiswar
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**
+📊 *Data Analyst | Business Intelligence | Power BI | SQL | Python*  
+📍 India  
+
+I am an aspiring *Data Analyst* passionate about turning raw data into meaningful insights. I enjoy analyzing datasets, building interactive dashboards, and creating reports that support business decision-making.
+---
+
+## 🧠 Skills & Tools
+
+### 📊 Data Analysis
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- KPI Creation & Reporting  
+- Data Modeling  
+
+### 🛠 Tools & Technologies
+- *Power BI* (DAX, Power Query, Dashboards)
+- *SQL* (Joins, Subqueries, Aggregations)
+- *Python* (Pandas, NumPy, Matplotlib)
+- *Excel* (Pivot Tables, VLOOKUP, Charts)
 
 Email Me 👉 ✉️ **amanjaiswar1999@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 linkedin Me 👉 ✉️ **http://linkedin.com/in/aman-jaiswa** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** A.J
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amanjaiswar14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🔭 **I’m currently working on:** - - Interactive dashboards using *Power BI*
+- SQL-based data analysis projects
+- Python EDA on real-world datasets
+- 🌱 **I’m currently learning:** - Advanced *DAX* & Power BI optimization  
+- Business statistics for analytics  
+- Data storytelling & visualization best practices
+- 👯 **I’m looking to collaborate on:** - Data Analysis & Visualization projects  
+- Power BI / Tableau dashboards  
+- Business Intelligence case studies
+- 💬 **Ask me about:** - Power BI dashboards & DAX  
+- SQL queries and data modeling  
+- Data visualization techniques  
+- Reporting & analytics workflows
+- 📫 **How to reach me:** - 📧 Email: *amanjaiswar1999@gmail.com*  
+- 🔗 LinkedIn: [linkedin.com/in/aman-jaiswar](https://linkedin.com/in/aman-jaiswar)
+- 😄 **Pronouns:** he/him
+- ⚡ **Fun fact:** I love transforming complex datasets into clear, actionable insights 📈
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aman_jaiswa_/?igsh=ZHJ5a290YTFkeWNk#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/aman-jaiswa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanjaiswar1999@gmail.com) 
