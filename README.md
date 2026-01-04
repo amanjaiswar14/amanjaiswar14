@@ -37,7 +37,6 @@ linkedin Me 👉 ✉️ **http://linkedin.com/in/aman-jaiswa** For Collaboration
 - Data visualization techniques  
 - Reporting & analytics workflows
 - 📫 **How to reach me:** - 📧 Email: *amanjaiswar1999@gmail.com*  
-- 🔗 LinkedIn: [linkedin.com/in/aman-jaiswar](https://linkedin.com/in/aman-jaiswar)
 - 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I love transforming complex datasets into clear, actionable insights 📈
 
